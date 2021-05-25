@@ -31,6 +31,6 @@ You can click the Preview link to take a look at your changes.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam5594&show_icons=true&locale=en&layout=compact" alt="shivam5594" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shivam5594&show_icons=true&locale=en" alt="shivam5594" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=shivam5594&show_icons=true&locale=en" alt="shivam5594" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shivam5594&" alt="shivam5594" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shivam5594&" alt="shivam5594" /></p>
